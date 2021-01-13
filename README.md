@@ -67,4 +67,5 @@ funkemunky - known for renaming latest ncp to sentinel, this guy probs sleeps wi
 https://www.youtube.com/watch?v=PDuZIFvVe4Y talks about skidding ncp 1:12:30    
 bans people with fake sentinel messages https://www.youtube.com/watch?v=8udLTfmJBRc&t=70s
 
+GreatZardasht - very loyal masterof13fps user --- requests src of various clients on masterof13fps, doesn't know how to make a simple deathsult module, uses google translate to communicate with other skids, examples: Does anyone know how to make a simple deathsults module?, [Request] Jigsaw 0.26/0.25 Deobfuscated, Old Novoline Src, "Skid it" - "From what" - "From Eject v3 leak" - "Ok i will thanks", [Request] Remix Src, Sight Src, etc., asks how to decompile liquidbounce in sigma discord, and more!
 # Sponsored by Fitmc pro pobob lava shulker sex dupe
