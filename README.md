@@ -2,7 +2,7 @@
 # Official Skid List
 
 >**GreatZardasht**
-- "Developed" Tranny PVP client that was skidded straight from Badlion and cried when I realized
+- "Developed" Tranny PVP client that was skidded straight from Badlion and cried when OMA realized
 - Clown Reason: Skidded Badlion, wanted to RAT a lot of kids
 
 >**Koolotta** 
