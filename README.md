@@ -1,6 +1,10 @@
 
 # Official Skid List
 
+>**GreatZardasht**
+- "Developed" Tranny PVP client that was skidded straight from Badlion and cried when I realized
+- Clown Reason: Skidded Badlion, wanted to RAT a lot of kids
+
 >**Koolotta** 
 -  "Developed" Client: abyss, virtue and 13 different clients in one.
 - Clown Reason: Client is 13 different clients in one, (abyss, virtue etc.)
