@@ -179,6 +179,9 @@ He sent that when someone asked for scaffold bypass regarding a 1.8 client and I
 > **Hqrion**
 - Clown Reason: Got clout from leaked phobos, claims he's a master cracker but can't really do shit, legends say he's still trying to dump spongebobhax 
 
+> **Napoleon**
+- Clown Reason: pedo, groomer
+
 # Credits & Cool Ppl (Not Skids)
 
 > **Shrunkie**
