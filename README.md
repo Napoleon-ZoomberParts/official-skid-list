@@ -194,6 +194,10 @@ He sent that when someone asked for scaffold bypass regarding a 1.8 client and I
 - Making Binscure obfuscator, generally cool man. Contributes to obfuscators and deobfuscators, and usually has repos in that field.
 - 10/10 would recommend Binscure (buy it though 😠)
 
+
+> **maxor**
+- sexed rte
+
 > **rTe_**
 - Being cool
 - watched femboy porn once to be a xatz dev
