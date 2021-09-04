@@ -163,7 +163,7 @@
 - Clown Reason: Got himself banned from r/minecraftclients (exposing pics of an underage femboy) and he got exposed for dating a femboy, L
 
 > **SyndicateNA**
-- Clown reason: Annoying 1.12 Larper who thought he could groom 1.8 groomers, instead got emasculated and now he is trying to cope
+- Clown reason: Annoying 1.12 Larper who thought he could groom 1.8 devs not knowing we are very good baiters, instead got emasculated and now he is trying to cope
 
 > **Innards**
 - Clown Reason: This uncultured swine has never left the anarchy community, he also testifies his "big name" yet he seems as nn as a Chinese Citzen who has gone "missing" 
@@ -193,7 +193,6 @@ He sent that when someone asked for scaffold bypass regarding a 1.8 client and I
 > **Mastercooker (x4e)**
 - Making Binscure obfuscator, generally cool man. Contributes to obfuscators and deobfuscators, and usually has repos in that field.
 - 10/10 would recommend Binscure (buy it though 😠)
-
 
 > **maxor**
 - sexed rte
