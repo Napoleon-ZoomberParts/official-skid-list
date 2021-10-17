@@ -105,8 +105,8 @@
 > **LeakedPVP** 
 - Client: Skidma (Sigma)
 - Clown Reason: Helped Omikron skid lots of clients and lots of code, he still isn't as bad as Omikron though
-- 
-- > **Parametric** 
+
+> **Parametric** 
 - Client: Crispy
 - Clown Reason: Skidded LiquidBounce & Karhu (for his anticheat)
 
