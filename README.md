@@ -124,9 +124,6 @@
 [Talks about skidding NCP at 1:12:30](https://www.youtube.com/watch?v=PDuZIFvVe4Y) 
 [Bans people with fake sentinel messages](https://www.youtube.com/watch?v=8udLTfmJBRc&t=70s)
 
-> **chocopie**
-- Clown Reason: Admitted to skidding, Has a shit src collection, imagine thinking 29 src codes is alot, I have 128, beat that you clown (the Src codes i collect, are collected for archival purposes, and so i can try and compile old clients for nostalgia)
-
 > **NotOma (ThatOma, Oma, OmaDude, @YeahOMA )**
 - "Developed": Oma backdoor 0.5 (Travis backdoor skid), Oma backdoor Latest (Yoink rat copy/rename except with a different webhook api), Fake astolfo crack rat which he exposed to get karma on reddit even though he made the rat (wow)
 - Clown Reason: Where do i even start?   A no name "ratter" (put in quotes because he is shit at ratting) 
