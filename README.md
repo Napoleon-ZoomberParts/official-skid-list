@@ -1,5 +1,8 @@
 
 # Official Skid List
+)
+> **XatzClient**
+- Clown Reason: Skidded [offical skid list](https://github.com/verblefanboy/official-skid-list)
 
 >**Koolotta** 
 -  "Developed" Client: abyss, virtue and 13 different clients in one.
