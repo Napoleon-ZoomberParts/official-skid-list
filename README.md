@@ -1,86 +1,9 @@
 
-# Official Skid List
+# Skid list (real)
 
->**Koolotta** 
--  "Developed" Client: abyss, virtue and 13 different clients in one.
-- Clown Reason: Client is 13 different clients in one, (abyss, virtue etc.)
-
-> **ThatN3RD**
-- "Developed" Client: Memenight.
-- Clown Reason: Client is made of XIV, Virtue and 40 more clients
-
-> **Bhopped**
-- "Developed": HopCord
-- Clown Reason: Stole discord design discord for HopCord and sold it to buy money for food.
-
-
-
-> **x3**
-- "Developed": x3coin
-- Clown Reason: Skidded bitcoin core to make his own x3coin, and skidded windows api to make his rats (still denies that he made any rats)
-
-
-
-> **Ohare**
- - "Developed": OhareDaBossOs
- - Clown Reason: Pasted directly from TempleOS because he cant code anything.
-
-
-> **Masterminecart**
- - "Developed": DRose Client
- - Clown Reason: Pasted directly from everything else, and had the balls to rat it too.
-
-
-
-> **Tryhardyoda (Edwin Townsley)**
-- "Developed": Midnight v4 (Minecraft Client), responsible for Camden Rodriguez Client.
-- Clown Reason: Big Time Skid
-
-
-> **HirdKKK (Meir Nisim)**
-- "Developed": Memestick Hacked Client (NO HATE)
-- Clown Reason: Responsible for the dox of Camdem Rodriguez [Image](https://cdn.discordapp.com/attachments/595066424028954644/595421928903278594/HirdKKK.png)
-
-> **FInalException**
-- "Developed": Some Clients
-- Clown Reason: Ate to much fish and got fat then started skidding. Got doxed and mom photos leaked too
-
-
-> **SpecDaSavage** 
-- Clown Reason: legit cant even make a boolean.
-
-
-> **Alerithe** 
-- "Developed": Some NN clients 
-- Clown Reason: Skidded Spectre
-
-> **xXx_KiX_xXX** 
-- "Developed": The Famous Glawk client
-- Clown Reason: skidded all of OG's modules
-
-> **Verble**
-- "Developed": Verble AntiLeak 
-- Clown Reason: Copy Pasted Alpha Antileak, also can't code anything!
-
-> **Kant (VyprHax, (Fake) Verble, Dxlton, Lucas Breeden)** 
-- "Developed": Autumn, Many Rats.
-- Clown Reason: Known Ratter. pasted Async Rat and Ratty to make Vis.Remote. Also pasted to make Autumn and added a rat to it.
-
-> **Hippo**
-- Clown Reason: The self proclaimed "ObjectWeb ASM
- God", but pasted everything from GraxCode and StackOverflow.
-
-> **Zane**
-- "Developed": Exhibition (Not Skidded)
-- Clown Reason:  Transfered IMGUI skeet UI to Minecraft.
-
-> **Vladymyr** 
-- "Developed": Remix
-- Clown Reason: Creator of Remix Client AKA Jigsaw legit can't even bypass vanilla
-
-> **Mees** 
-- "Developed": Remix
-- Clown Reason: Most Likely put a rat in it to get CP for his collection (has collection has been confirmed)
+> **Napoleon**
+- "Developed": Xatz, auth for Snipeware (anything coded after them is not skidded)
+-  Clown Reason: I did not realize the irony and that the project I was forking was a joke that I made into a serious thing, I have since fixed relations with some of the "clowns" on this list and most of them have stopped skidding, Xatz was a Jigsaw rename or some shit that I did for a joke I learnt 0 java from that, Snipeware was slightly better but then some devs forgot to remove a suspicious aspect of it, I have technically "quit" and only do personal projects that are not pasted and mainly private
 
 > **Cedo**
 - "Developed": Fan Client
@@ -165,7 +88,6 @@
 > **Innards**
 - Clown Reason: This uncultured swine has never left the anarchy community, he also testifies his "big name" yet he seems as nn as a Chinese Citzen who has gone "missing" 
 
-
 ![alt text](https://i.imgur.com/gOqkvfQ.png)
 
 He sent that when someone asked for scaffold bypass regarding a 1.8 client and I sent them some joke code
@@ -175,6 +97,10 @@ He sent that when someone asked for scaffold bypass regarding a 1.8 client and I
 
 > **Hqrion**
 - Clown Reason: Got clout from leaked phobos, claims he's a master cracker but can't really do shit, legends say he's still trying to dump spongebobhax 
+
+
+> **DistastefulBannock**
+- Clown Reason: Furry femboy. Did not send me femboy thighs, keeps insisting I am still skidding to this day without proof, has a secret crush on me.
 
 # Credits & Cool Ppl (Not Skids)
 
