@@ -176,6 +176,9 @@ He sent that when someone asked for scaffold bypass regarding a 1.8 client and I
 > **Hqrion**
 - Clown Reason: Got clout from leaked phobos, claims he's a master cracker but can't really do shit, legends say he's still trying to dump spongebobhax 
 
+> **Napoleon**
+- Clown Reason: Made a jigsaw rename with a couple extra modules pasted from tons of random sources ranging from open src cheats to client leaks, left the project and came back with another paste called snipeware which also happened to be a rat. Is currently back to soiling jigsaws name by making another cheat (paste) called jigsaw+ or smth
+
 # Credits & Cool Ppl (Not Skids)
 
 > **Shrunkie**
