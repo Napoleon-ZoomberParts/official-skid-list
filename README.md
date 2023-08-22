@@ -110,9 +110,6 @@ He sent that when someone asked for scaffold bypass regarding a 1.8 client and I
 > **Intent**
 - Making SuperheroFX so fang can simp for something other than astolfo
 
-> **NaakateM0LRatten**
-- Sexing marshy's mom
-
 > **Mastercooker (x4e)**
 - Making Binscure obfuscator, generally cool man. Contributes to obfuscators and deobfuscators, and usually has repos in that field.
 - 10/10 would recommend Binscure (buy it though 😠)
