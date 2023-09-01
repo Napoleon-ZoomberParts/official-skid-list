@@ -71,6 +71,9 @@
 - "Developed": His infamous phobos skid 
 - Clown Reason: Didn't give neko+ server back, claims neko+ is a skid when in fact he skidded a lot of our code, spends his days improving his skid's security by getting info from users on a not very suspicious "Tracker".
 
+> **winxpqq955**
+- "Developed": [Skidsense Client](https://github.com/DropdownBox/skidsense)
+- Clown Reason: Skidded Enjoytheban 0.6 and anarchy client to make his shitty hypixel client, cant even make a nametag.
 
 # Retards
 > **Mario** 
